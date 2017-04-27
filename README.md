@@ -1,2 +1,3 @@
 # homebrew-tap
-Homebrew formulas
+
+Homebrew formulas for `lhazlewood` packages
