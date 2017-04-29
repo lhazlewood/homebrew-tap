@@ -2,9 +2,9 @@ class Spin < Formula
 
   desc 'A command-line tool for service and resource orchestration.'
   homepage 'https://github.com/lhazlewood/spin'
-  url 'http://repo1.maven.org/maven2/com/leshazlewood/spin/spin/0.1.0/spin-0.1.0.zip'
-  sha256 '309775c58be550d356ef2e4bd193a5d3a436e91dfa9ebd69f2e60126243b0af7'
-  version '0.1.0'
+  url 'http://repo1.maven.org/maven2/com/leshazlewood/spin/spin/0.2.0/spin-0.2.0.zip'
+  sha256 '56ca4942d727410b9c95b84ba877fb8d966d88a29d9bac81d0c10ea434695516'
+  version '0.2.0'
 
   bottle :unneeded
 
